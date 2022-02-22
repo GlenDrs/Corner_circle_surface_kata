@@ -1,3 +1,7 @@
+class ExcCornerCercle
+
 def surface_corner_circle(surface_square)
-  #Try you solution here:
+  #Try your solution here:
+end
+
 end
